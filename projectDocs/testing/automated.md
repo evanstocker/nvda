@@ -9,7 +9,7 @@ Then, run:
 scons tests
 ```
 
-### Run Specific Unit tests
+### Specific Unit tests
 To run only specific unit tests, specify them using the `unitTests` variable on the command line.
 The tests should be provided as a comma-separated list.
 Each test should be specified as a Python module, class or method relative to the `tests\unit` directory.
